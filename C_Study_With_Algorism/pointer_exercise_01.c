@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 void ChangeDouble(int* p) { /*int*p=&num;*/
-    *p = *p * 2; 
+    *p = *p * 3; 
 }
 int main()
 {
